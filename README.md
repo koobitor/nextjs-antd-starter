@@ -1,7 +1,7 @@
 ### How to start develop
 ```
-git clone git@github.com:koobitor/nextjs-bootstrap-starter.git
-cd nextjs-bootstrap-starter
+git clone git@github.com:koobitor/nextjs-antd-starter.git
+cd nextjs-antd-starter
 npm install
 npm run dev
 ```
