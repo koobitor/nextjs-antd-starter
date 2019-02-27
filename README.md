@@ -2,19 +2,19 @@
 ```
 git clone git@github.com:koobitor/nextjs-antd-starter.git
 cd nextjs-antd-starter
-npm install
-npm run dev
+yarn
+yarn dev
 ```
 
 ### How to export project
 ```
-npm run build
-npm run export
+yarn build
+yarn export
 ```
 
 ### Install Prerequest
 ```
-npm install -g serve
+yarn global add serve
 ```
 
 ### See static output
